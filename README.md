@@ -117,4 +117,4 @@ Graves, A. (2013). Generating Sequences With Recurrent Neural Networks. arXiv pr
 
 Merity, S., Keskar, N. S., Socher, R. (2017). Regularizing and Optimizing LSTM Language Models. arXiv preprint arXiv:1708.02182. [Link](https://arxiv.org/abs/1708.02182).
 
-`enter code here`Gu, A., Dao, T. (2023). Mamba: Linear-Time Sequence Modeling with Selective State Spaces. arXiv:2312.00752. [Link](https://arxiv.org/abs/2312.00752).
+Gu, A., Dao, T. (2023). Mamba: Linear-Time Sequence Modeling with Selective State Spaces. arXiv:2312.00752. [Link](https://arxiv.org/abs/2312.00752).
