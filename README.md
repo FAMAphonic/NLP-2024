@@ -100,6 +100,9 @@ Se divide el volumen total de actividad en los siguientes paquetes de trabajo (W
 **Cuadro sintético**
 [https://github.com/FAMAphonic/NLP-2024/blob/main/images/Tabla%201%20-%20%20Planificación.png](https://github.com/FAMAphonic/NLP-2024/blob/main/images/Tabla1-Planific.png)
 
+**PDF**
+https://github.com/FAMAphonic/NLP-2024/blob/main/PDF/FAMAF-TextMinig2024-propuesta_tf_Brizuela_v1_0.pdf
+
 #### Referencias
 
 Rajpurkar, P., Zhang, J., Lopyrev, K., Liang, P. (2016). SQuAD: 100,000+ Questions for Machine Comprehension of Text. Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing (EMNLP) . [Link](https://aclanthology.org/D16-1264/). 
