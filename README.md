@@ -98,7 +98,7 @@ Se divide el volumen total de actividad en los siguientes paquetes de trabajo (W
     Artículo científico-tecnológico.
 
 **Cuadro sintético**
-https://github.com/FAMAphonic/NLP-2024/blob/main/images/Tabla%201%20-%20%20Planificación.png
+[https://github.com/FAMAphonic/NLP-2024/blob/main/images/Tabla%201%20-%20%20Planificación.png](https://github.com/FAMAphonic/NLP-2024/blob/main/images/Tabla1-Planific.png)
 
 #### Referencias
 
