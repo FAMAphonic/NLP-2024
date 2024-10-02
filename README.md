@@ -97,8 +97,6 @@ Se divide el volumen total de actividad en los siguientes paquetes de trabajo (W
     Reporte final.
     Artículo científico-tecnológico.
 
-**Cuadro sintético**
-https://docs.google.com/drawings/d/1TJMUlTvGzAicW2CIL3ahP2DDAzcn-D-UkcyTtyvbaeE/edit
 
 #### Referencias
 
