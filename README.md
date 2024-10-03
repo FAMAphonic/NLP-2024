@@ -6,7 +6,7 @@
 
 Palabras clave: Answer extraction, redes neuronales recurrentes, Mamba, PLN, Large Language Models, Modelos de lenguage, Desempeño, métricas, benchmarcks.
 
-#### Autor
+#### Alumno
 
 Lic.  Horacio Brizuela
 
